@@ -1,0 +1,6 @@
+Connected to the server.
+New Device :: SBIG CCD
+Traceback (most recent call last):
+  File "./utils/observe.py", line 14, in <module>
+    ccd.set_binning(eval(data['binning'])[0], eval(data['binning'])[1])
+TypeError: 'int' object is not subscriptable

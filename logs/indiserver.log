@@ -1,0 +1,3 @@
+2018-12-19T15:48:43: startup: indiserver indi_sbig_ccd 
+2018-12-19T15:48:45: Driver indi_sbig_ccd: OpenDriver: CC_OPEN_DRIVER successfull
+2018-12-19T18:38:41: Client 0: read: Connection reset by peer
